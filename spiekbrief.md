@@ -29,3 +29,7 @@ Met Git kun je een foute commit terugdraaien. De foute commit blijft in de gesch
 ## 6. Branches en pull requests
 Een branch is een aparte versie van je project waarin je wijzigingen kunt maken. Main blijft altijd de werkende versie zodat er geen fouten in komen.
 Een pull request is een verzoek om je wijzigingen samen te voegen met main.
+
+## 7. Mijn conflict
+
+Ik heb dezelfde titel op GitHub en op mijn laptop anders aangepast. Daardoor ontstond er een merge conflict. Ik heb gekozen voor één duidelijke titel omdat dit overzichtelijker is.
