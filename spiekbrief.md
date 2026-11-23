@@ -21,3 +21,7 @@ niet op GitHub terechtkomen.
 
 Met Pull heb ik de nieuwste wijzigingen van GitHub naar mijn computer gehaald. Aan het begin van elke les doe ik eerst een Pull zodat ik altijd met
 de nieuwste versie werk.
+
+## 5. Terugdraaien
+
+Met Git kun je een foute commit terugdraaien. De foute commit blijft in de geschiedenis staan omdat Git alle wijzigingen bijhoudt.
