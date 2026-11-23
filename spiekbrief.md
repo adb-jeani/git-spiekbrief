@@ -25,3 +25,7 @@ de nieuwste versie werk.
 ## 5. Terugdraaien
 
 Met Git kun je een foute commit terugdraaien. De foute commit blijft in de geschiedenis staan omdat Git alle wijzigingen bijhoudt.
+
+## 6. Branches en pull requests
+Een branch is een aparte versie van je project waarin je wijzigingen kunt maken. Main blijft altijd de werkende versie zodat er geen fouten in komen.
+Een pull request is een verzoek om je wijzigingen samen te voegen met main.
