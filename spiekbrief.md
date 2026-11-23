@@ -14,4 +14,10 @@ Het goede bericht is beter omdat het duidelijk vertelt wat er veranderd is, terw
 
 ## 3. Gitignore
 
-Gitignore zorgt ervoor dat Git bepaalde bestanden negeert, zoals tijdelijke bestanden en logbestanden. Dit is handig omdat onnodige bestanden dan niet op GitHub terechtkomen.
+Gitignore zorgt ervoor dat Git bepaalde bestanden negeert, zoals tijdelijke bestanden en logbestanden. Dit is handig omdat onnodige bestanden dan
+niet op GitHub terechtkomen.
+
+## 4. Pull
+
+Met Pull heb ik de nieuwste wijzigingen van GitHub naar mijn computer gehaald. Aan het begin van elke les doe ik eerst een Pull zodat ik altijd met
+de nieuwste versie werk.
